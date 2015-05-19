@@ -1,0 +1,1 @@
+..\bin\win32\soapcpp2.exe -2cLx -I..\import -I..\ onvif_wsdl.h

@@ -1,0 +1,1 @@
+..\bin\win32\wsdl2h -cdkPs  -t ..\typemap.dat -o onvif_wsdl.h devicemgmt.1.1.wsdl media.1.1.wsdl ptz.2.0.wsdl imaging.2.0.wsdl event.1.4.wsdl remotediscovery.1.1.wsdl
